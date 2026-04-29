@@ -16,4 +16,4 @@ We are building a unified computational framework for analyzing chromatin access
 ---
 
 *Built and maintained by Himanshu Bhandary, BDB Genomics.*
-*Contact: 2032ushimanshu@gmail.com*
+
