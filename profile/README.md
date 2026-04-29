@@ -1,21 +1,19 @@
 <img width="1774" height="887" alt="ChatGPT Image Apr 29, 2026, 11_27_23 PM" src="https://github.com/user-attachments/assets/1ee92c64-dad0-425f-b749-7be29dc6d20f" />
+# BDB Genomics | Center of Computational Epigenomics
 
+> **Mission: To advance the understanding of Type 2 Diabetes through computational epigenomics.**
 
-# BDB-Genomics
+BDB Genomics develops open-source computational infrastructure for epigenomic data analysis, with a focus on reproducibility, accessibility, and scalable design.
 
-### Mission Statement
-To provide production-grade, modular, and highly reproducible bioinformatics pipelines for epigenomic research, ensuring research transparency and scalability at every step.
+---
 
-### Core Pipelines
-*   [ATAC-seq Pipeline](https://github.com/BDB-Genomics/atacseq-pipeline)
-*   [CUT&RUN Pipeline](https://github.com/BDB-Genomics/cutandrun-pipeline)
-*   [ChIP-seq Pipeline](https://github.com/BDB-Genomics/chipseq-pipeline)
+## Research Focus
 
-### Core Values
-*   Reproducibility: We leverage Snakemake and Conda for environment preservation.
-*   Quality Control: Every pipeline features advanced automated QC gating.
-*   Modularity: Standardized rule structures for easy cross-assay adaptation.
-                 
-*   ---
-*   Maintained by the BDB-Genomics team.
-*   
+Type 2 Diabetes epigenomics.
+
+We are building a unified computational framework for analyzing chromatin accessibility and regulatory dynamics, enabling consistent analysis across datasets.
+
+---
+
+*Built and maintained by Himanshu Bhandary, BDB Genomics.*
+*Contact: 2032ushimanshu@gmail.com*
