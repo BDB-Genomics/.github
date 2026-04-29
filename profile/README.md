@@ -1,3 +1,5 @@
+<img width="2012" height="782" alt="ChatGPT Image Apr 29, 2026, 11_22_36 PM" src="https://github.com/user-attachments/assets/2e66fa68-a87d-45c4-ab3d-3f6c5da696c5" />
+
 # BDB-Genomics
 
 ### Mission Statement
