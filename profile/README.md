@@ -6,14 +6,14 @@
 
 BDB Genomics develops "open-source" computational infrastructure for epigenomic data analysis, with a focus on reproducibility, accessibility, and scalable design.
 
----
+
 
 ## Research Focus
 
 Type 2 Diabetes epigenomics.
 
 
----
+
 
 *Built and maintained by Himanshu Bhandary, BDB Genomics.*
 
