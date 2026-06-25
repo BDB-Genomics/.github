@@ -2,7 +2,6 @@
 
 # BigDataBiology Genomics | Computational Epigenomics
 
-> **Aim: To contribute to the understanding of Type 2 Diabetes for therapuetic potentials through computational epigenomics.**
 
 BDB Genomics develops "open-source" computational infrastructure for epigenomic data analysis, with a focus on reproducibility, accessibility, and scalable design.
 
